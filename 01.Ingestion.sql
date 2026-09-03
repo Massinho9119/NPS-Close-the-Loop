@@ -1,3 +1,7 @@
+-- caricare dati da file
+-- creare tabella partizionata
+
+
 CREATE OR REPLACE TABLE `elc-cdpcrm-prj-prd.tmp_looker_crm.tmp_nps_survey_results_partitioned`
 
 PARTITION BY

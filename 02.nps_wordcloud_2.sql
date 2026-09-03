@@ -1,3 +1,4 @@
+-- caricamento survey + applicazione AI su commenti
 
 CREATE TABLE IF NOT EXISTS `elc-cdpcrm-prj-prd.looker_crm_analytics.nps_gemini_comment_transl`
 (survey_h_hid STRING,
