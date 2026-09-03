@@ -1,0 +1,1 @@
+drop table `elc-cdpcrm-prj-prd.tmp_looker_crm.tmp_nps_survey_results_partitioned`
